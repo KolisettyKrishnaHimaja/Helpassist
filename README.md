@@ -1,4 +1,4 @@
-# CarServiceApp 
+# Help Assist
 This is an car service based application created using android studio where you can check your nearest car service center and many other features. Such as progress bar while loading, google maps for current location etc.
 
 ### 1. `Starting App` 
